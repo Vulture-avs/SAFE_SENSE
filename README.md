@@ -111,7 +111,7 @@ AI-Fall-Detection-System/
 - `requirements.txt` - Standard installation
 - `requirements-minimal.txt` - Lightweight (core only)
 - `requirements-full.txt` - Complete with all features
-- `requirements-dev.txt` - Development tools
+- `requirements-dev.txt ` - Development tools
 
 
 
